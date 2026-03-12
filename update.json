@@ -1,8 +1,5 @@
 {
-"latest_version": 5,
-"force_update": false,
-"flexible_update": false,
-"emergency_redirect": false,
-"redirect_url": "https://play.google.com/store/apps/details?id=com.example.newapp",
-"update_url": "https://play.google.com/store/apps/details?id=com.example.app"
+  "force_update": false,
+  "message": "New version available. Please update to continue.",
+  "play_store_link": "https://play.google.com/store/apps/details?id=com.shaheen.autoreloadx"
 }
